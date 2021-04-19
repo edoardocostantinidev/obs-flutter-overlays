@@ -1,0 +1,17 @@
+{
+  "name": "irc-interceptor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dank-twitch-irc": "^4.3.0",
+    "irc": "^0.5.2",
+    "socket.io-client": "^4.0.1"
+  }
+}
